@@ -1,3 +1,7 @@
+<div align="center">
+<img src="logo.png" alt="FUTURA Logo" width="1000"/>
+</div>
+
 # 🁢 Domino Clock
 
 A creative digital clock built with a **domino-inspired display**, where each digit is represented using domino tiles instead of traditional seven-segment displays. The project combines clean UI design with smooth time updates to create a unique way of visualizing the current time.
