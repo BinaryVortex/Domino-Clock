@@ -17,18 +17,6 @@ A creative digital clock built with a **domino-inspired display**, where each di
 
 ---
 
-## 📸 Preview
-
-Add screenshots or a GIF here.
-
-```text
-preview/
-├── domino-clock.png
-└── demo.gif
-```
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
